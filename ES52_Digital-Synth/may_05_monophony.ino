@@ -16,6 +16,7 @@ int pin_a = 26;
 int pin_asharp = 24;
 int pin_b = 22;
 
+int test = 6;
 
 int buttons[12]={pin_c, pin_csharp, pin_d, pin_dsharp, pin_e, pin_f, pin_fsharp, pin_g, pin_gsharp, pin_a, pin_asharp, pin_b};
 
